@@ -1,13 +1,13 @@
 {
-  "name": "p7-api-jwt",
+  "name": "p8-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-"scripts": {
-  "start": "node server.js"
-}
+  "description": "API de películas con CRUD, login y token JWT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Carlos_Rodriguez",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
