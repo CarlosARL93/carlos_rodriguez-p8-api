@@ -11,7 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "engines": {
-    "node": "20.x"
+    "node": "20.18.0"
   },
   "dependencies": {
     "express": "^5.2.1",
